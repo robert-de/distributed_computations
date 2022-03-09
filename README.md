@@ -62,3 +62,4 @@ The multiple consecutive MPI_Recv() or MPI_Send() calls could have been
 replaced by a structure and a single call, however, this would have, I feel, 
 made development more difficult, and the code harder to debug.
 
+https://discord.com/channels/@me/404978892542181376/951204053587742771
